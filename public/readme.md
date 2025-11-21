@@ -4,7 +4,7 @@
 
 [def]: ./git/license.md "Ccылка"
 
-![git-logo](./git/assets/1color-darkbg@2x.png)
+![git-logo](./images/gptlogo1.png)
 ---
 
 ## 🥳Содержание \*
