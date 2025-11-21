@@ -2,9 +2,9 @@
 
 <u> LICENCE: [MIT][def] </u>
 
-[def]: ./git/license.md "Ccылка"
+[def]: ./public/git/license.md "Ccылка"
 
-![git-logo](./images/gptlogo1.png)
+![git-logo](./public/images/gptlogo1.png)
 ---
 
 ## 🥳Содержание \*
