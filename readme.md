@@ -13,8 +13,7 @@
 ---
 
 
-
-Git Logo by GPT - https://chatgpt.com,
+Logo by GPT - https://chatgpt.com,
 licensed under the [CC0 (Public Domain)](https://creativecommons.org/public-domain/cc0/)
 
 <details>
