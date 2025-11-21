@@ -29,11 +29,14 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    align-items: center; /* Добавлено для вертикального выравнивания */
     padding: 1rem;
 }
 
 nav li {
     margin: 0 1.5rem;
+    display: flex;
+    align-items: center; /* Добавлено для вертикального выравнивания */
 }
 
 nav a {
@@ -46,11 +49,31 @@ nav a {
     transition: all 0.3s ease;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    display: flex;
+    align-items: center; /* Добавлено для вертикального выравнивания */
 }
 
 nav a:hover {
     background-color: rgba(255, 255, 255, 0.2);
     transform: translateY(-2px);
+}
+
+/* Стили для логотипа */
+.logo {
+    width: 120px;
+    height: 40px;
+    object-fit: contain;
+    /* padding-top: 5%; УДАЛИТЬ эту строку - она сдвигала логотип вниз */
+}
+
+/* Особые стили для ссылки с логотипом */
+nav li:first-child a {
+    padding: 0; /* Убираем отступы для ссылки с логотипом */
+}
+
+nav li:first-child a:hover {
+    background: none; /* Убираем фон при наведении на логотип */
+    transform: none; /* Убираем трансформацию при наведении на логотип */
 }
 
 /* Основной контент */
