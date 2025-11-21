@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT
 
-<u> LICENCE: [CC0][def] </u>
+<u> LICENCE: [MIT][def] </u>
 
 [def]: ./public/git/license.md "Ccылка"
 
